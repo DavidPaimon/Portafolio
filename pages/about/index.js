@@ -18,11 +18,11 @@ const aboutData = [
           </>
         ),
         icons: [
-          <FaPython />,
-          <DiDjango />,
-          <FaNodeJs />,
-          <SiExpress />,
-          <FaJs />,
+          <FaPython key="FaPython" />,
+          <DiDjango key="DiDjango" />,
+          <FaNodeJs key="FaNodeJs" />,
+          <SiExpress key="SiExpress" />,
+          <FaJs key="FaJs" />,
         ],
       },
       {
@@ -32,8 +32,8 @@ const aboutData = [
           </>
         ),
         icons: [
-          <SiMysql />,
-          <BiLogoPostgresql />,
+          <SiMysql key="SiMysql" />,
+          <BiLogoPostgresql key="BiLogoPostgresql" />,
         ],
       },
       {
@@ -43,15 +43,15 @@ const aboutData = [
           </>
         ),
         icons: [
-          <FaHtml5 />,
-          <FaCss3 />,
-          <SiTypescript />,
-          <FaJs />,
-          <FaReact />,
-          <SiNextdotjs />,
-          <SiFramer />,
-          <SiTailwindcss />,
-          <SiRedux />,
+          <FaHtml5 key="FaHtml5" />,
+          <FaCss3 key="FaCss3" />,
+          <SiTypescript key="SiTypescript" />,
+          <FaJs key="FaJsWeb" />,
+          <FaReact key="FaReact" />,
+          <SiNextdotjs key="SiNextdotjs" />,
+          <SiFramer key="SiFramer" />,
+          <SiTailwindcss key="SiTailwindcss" />,
+          <SiRedux key="SiRedux" />,
         ],
       },
     ],
