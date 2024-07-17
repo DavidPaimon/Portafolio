@@ -1,0 +1,4 @@
+<svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="50" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="#ffffff">Paimon</text>
+  <circle cx="150" cy="47" r="4" fill="#DAA520"/>
+</svg>
