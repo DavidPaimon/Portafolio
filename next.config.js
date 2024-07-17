@@ -1,7 +1,12 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
+// next.config.js
+module.exports = {
+  // Otras configuraciones de Next.js
+  images: {
+    unoptimized: true,
+  },
+  // Configuración para exportación estática
+  exportTrailingSlash: true,
+  basePath: '/Portafolio',
+  assetPrefix: '/Portafolio/',
+  trailingSlash: true,
 }
-
-module.exports = nextConfig
