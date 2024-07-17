@@ -51,9 +51,9 @@ const Home = () => {
            className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16 font-mono"
            style={{ color: '#FF69B4' }}
           >
-            David
-            Felipe
-            Florido Jiménez
+            {['David', ' Felipe ', 'Florido Jiménez'].map((name, index) => (
+              <span key={index}>{name}</span>
+            ))}
           </motion.p>
         </div>
       </div>
