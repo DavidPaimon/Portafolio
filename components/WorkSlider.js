@@ -4,22 +4,22 @@ const workSlides = {
     {
       images: [
         {
-          title: 'title',
+          title: 'Lingua',
+          path: '/thumbLingua.png',
+          link: 'https://rec-voz.vercel.app/',
+        },
+        {
+          title: 'NomadLocals',
           path: '/thumb.jpg',
           link: 'https://nomandlocals.netlify.app/',
         },
         {
-          title: 'title',
+          title: 'DevNest Innova',
           path: '/thumbdevnest.jpg',
-          link: 'https://github.com/DavidPaimon/devnest/',
+          link: 'https://devnest-eosin.vercel.app/',
         },
         {
-          title: 'title',
-          path: '/thumbVgApp.jpg',
-          link: 'https://github.com/DavidPaimon/VideogameApp',
-        },
-        {
-          title: 'title',
+          title: 'CountryApp',
           path: '/thumbCApp.jpg',
           link: 'https://github.com/DavidPaimon/Countries',
         },
@@ -31,6 +31,11 @@ const workSlides = {
           title: 'title',
           path: '/thumbRMApp.jpg',
           link: 'https://github.com/DavidPaimon/Rick-and-Morty',
+        },
+        {
+          title: 'VgApp',
+          path: '/thumbVgApp.jpg',
+          link: 'https://github.com/DavidPaimon/VideogameApp',
         },
       ],
     },
