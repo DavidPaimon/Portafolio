@@ -21,7 +21,7 @@ const workSlides = {
         {
           title: 'Alarm Detector',
           path: '/alarm.jpg',
-          link: 'https://github.com/DavidPaimon/Countries',
+          link: 'https://alarm-detector.vercel.app/',
         },
       ],
     },
