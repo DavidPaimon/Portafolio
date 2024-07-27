@@ -6,7 +6,7 @@ const workSlides = {
         {
           title: 'Lingua',
           path: '/thumbLingua.png',
-          link: 'https://rec-voz.vercel.app/',
+          link: 'http://lingua-one.vercel.app',
         },
         {
           title: 'NomadLocals',
@@ -19,8 +19,8 @@ const workSlides = {
           link: 'https://devnest-eosin.vercel.app/',
         },
         {
-          title: 'CountryApp',
-          path: '/thumbCApp.jpg',
+          title: 'Alarm Detector',
+          path: '/alarm.jpg',
           link: 'https://github.com/DavidPaimon/Countries',
         },
       ],
@@ -36,6 +36,11 @@ const workSlides = {
           title: 'VgApp',
           path: '/thumbVgApp.jpg',
           link: 'https://github.com/DavidPaimon/VideogameApp',
+        },
+        {
+          title: 'CountryApp',
+          path: '/thumbCApp.jpg',
+          link: 'https://github.com/DavidPaimon/Countries',
         },
       ],
     },
